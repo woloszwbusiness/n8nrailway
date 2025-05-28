@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {},
+    "builder": "DOCKERFILE"
+  },
+  "deploy": {
+    "startCommand": null
+  }
+}
