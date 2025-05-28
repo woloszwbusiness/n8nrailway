@@ -5,5 +5,12 @@
   },
   "deploy": {
     "startCommand": null
-  }
+  },
+  "services": [
+    {
+      "name": "web",
+      "port": 5678,
+      "protocol": "HTTP"
+    }
+  ]
 }
